@@ -1,0 +1,30 @@
+[
+  {
+    "id" : 1,
+    "name" : "banner-lion"
+  },
+  {
+    "id" : 2,
+    "name" : "banner-elephant"
+  },
+  {
+    "id" : 3,
+    "name" : "banner-cheetah"
+  },
+  {
+    "id" : 4,
+    "name" : "banner-zebra"
+  },
+  {
+    "id" : 5,
+    "name" : "banner-buffalo"
+  },
+  {
+    "id" : 6,
+    "name" : "banner-giraffe"
+  },
+  {
+    "id" : 7,
+    "name" : "banner-gorilla"
+  }
+]
